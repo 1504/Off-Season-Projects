@@ -1,0 +1,23 @@
+PWM Input
+Voltages
+	Input Level
+		Max Input 28V
+		Min Input 6V
+	Logic Level
+		Max Input 5V
+		Logic Switching
+		Logic High	1.0V
+		Logic Low	0.4V
+Current Limits
+	Max Continuous  60A
+	Max Peak	100A
+Signal Input
+	Range:	1-2ms
+		500Hz-1000Hz
+	Forward-Reverse-Stop
+		500Hz	Full Forward
+		666Hz	Stop
+		1000Hz	Full Reverse
+	Refresh Time
+		Min	3ms
+		Max 	20ms
